@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./app.css";
+import "./App.css";
 
 const API_URL = "https://backend-project-vc5f.onrender.com";
 
